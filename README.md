@@ -1,0 +1,1 @@
+This repository contains a collection of solved exercises in the Java programming language, organized by key programming topics. These exercises were developed during the second semester of the Software Engineering program at the Federal University of Ceará (UFC), as part of the course Programação Orientada a Objetos (Object Oriented Program – POO), class of 2025.2.
